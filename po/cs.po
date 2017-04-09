@@ -137,7 +137,7 @@ msgstr "Klávesové zkratky"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:55
 msgid "Unity 8"
-msgstr "Unity 8"
+msgstr "Yunit"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
