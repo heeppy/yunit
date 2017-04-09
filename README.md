@@ -4,7 +4,7 @@ This is a fork of Canonical's Unity 8 repository as of April 5, 2017. Following 
 
 Please check [yunit's web site](http://www.yunit.io) (currently under construction) for project updates
  
-** See the file CODING for build and running instructions **
+**See the file CODING for build and running instructions**
 ### Translations ###
 For help with translations do a pull request with the changes that you made to the .po file of your language. 
 
