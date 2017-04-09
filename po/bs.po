@@ -722,7 +722,7 @@ msgstr "Servisi lokacije"
 msgid ""
 "Use GPS, Wi-Fi hotspots and mobile network anonymously to detect location "
 "(recommended)"
-msgstr ""Koristi GPS, Wi-Fi tačke i mobilnu mrežu da anonimno otkriješ lokaciju
+msgstr "Koristi GPS, Wi-Fi tačke i mobilnu mrežu da anonimno otkriješ lokaciju"
 
 #: qml/Wizard/Pages/40-location.qml:105
 #, qt-format

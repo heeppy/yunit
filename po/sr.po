@@ -222,7 +222,7 @@ msgstr "Super + A"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:195
 msgid "Opens the Application Drawer."
-msgstr "Отвара покретач апликација.
+msgstr "Отвара покретач апликација."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:207
 msgid "Scopes"
