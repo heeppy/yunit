@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: unity\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Report-Msgid-Bugs-To: Egi Adithia Pradana <egi@ordinaryegi.com>\n"
 "POT-Creation-Date: 2017-03-28 21:50+0000\n"
 "PO-Revision-Date: 2013-06-26 22:35+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
@@ -24,31 +24,31 @@ msgstr "Sandi: "
 
 #: plugins/LightDM/Greeter.cpp:203
 msgid "Username"
-msgstr ""
+msgstr "Nama Pengguna"
 
 #: plugins/LightDM/Greeter.cpp:242
 msgid "Failed to authenticate"
-msgstr ""
+msgstr "Gagal untuk otentikasi"
 
 #: plugins/LightDM/Greeter.cpp:244
 msgid "Invalid password, please try again"
-msgstr ""
+msgstr "Salah sandi, tolong coba lagi"
 
 #: plugins/LightDM/Greeter.cpp:254
 msgid "Log In"
-msgstr ""
+msgstr "Log Masuk"
 
 #: plugins/LightDM/Greeter.cpp:254
 msgid "Retry"
-msgstr ""
+msgstr "Ulangi"
 
 #: plugins/LightDM/UsersModel.cpp:152
 msgid "Login"
-msgstr ""
+msgstr "Masuk"
 
 #: plugins/LightDM/UsersModel.cpp:160
 msgid "Guest Session"
-msgstr ""
+msgstr "Sesi Tamu"
 
 #: plugins/Unity/Launcher/launcheritem.cpp:49
 #: plugins/Unity/Launcher/launcheritem.cpp:123
@@ -57,7 +57,7 @@ msgstr "Paku pintasan"
 
 #: plugins/Unity/Launcher/launcheritem.cpp:55
 msgid "Quit"
-msgstr ""
+msgstr "Keluar"
 
 #: plugins/Unity/Launcher/launcheritem.cpp:123
 msgid "Unpin shortcut"
@@ -66,7 +66,7 @@ msgstr "Lepas pintasan"
 #: qml/Components/Dialogs.qml:176
 msgctxt "Title: Lock/Log out dialog"
 msgid "Log out"
-msgstr ""
+msgstr "Log Keluar"
 
 #: qml/Components/Dialogs.qml:177
 msgid "Are you sure you want to log out?"
@@ -75,12 +75,12 @@ msgstr "Anda yakin ingin log keluar?"
 #: qml/Components/Dialogs.qml:180
 msgctxt "Button: Lock the system"
 msgid "Lock"
-msgstr ""
+msgstr "Kunci"
 
 #: qml/Components/Dialogs.qml:191
 msgctxt "Button: Log out from the system"
 msgid "Log Out"
-msgstr ""
+msgstr "Log Keluar"
 
 #: qml/Components/Dialogs.qml:199 qml/Components/Dialogs.qml:264
 #: qml/Dash/DashPageHeader.qml:324 qml/Greeter/NarrowView.qml:208
@@ -92,7 +92,7 @@ msgstr "Batal"
 #: qml/Components/Dialogs.qml:211
 msgctxt "Title: Reboot dialog"
 msgid "Reboot"
-msgstr ""
+msgstr "Boot Ulang"
 
 #: qml/Components/Dialogs.qml:212
 msgid "Are you sure you want to reboot?"
@@ -109,7 +109,7 @@ msgstr "Ya"
 #: qml/Components/Dialogs.qml:239
 msgctxt "Title: Power off/Restart dialog"
 msgid "Power"
-msgstr ""
+msgstr "Nyala"
 
 #: qml/Components/Dialogs.qml:240
 msgid ""
@@ -122,7 +122,7 @@ msgstr ""
 #: qml/Components/Dialogs.qml:244
 msgctxt "Button: Power off the system"
 msgid "Power off"
-msgstr ""
+msgstr "Matikan daya"
 
 #: qml/Components/Dialogs.qml:255
 msgctxt "Button: Restart the system"
