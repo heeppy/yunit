@@ -5,11 +5,11 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: unity\n"
+"Project-Id-Version: yunit\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2017-03-28 21:50+0000\n"
 "PO-Revision-Date: 2015-08-05 04:40+0000\n"
-"Last-Translator: Julio Alexander Sieg <julio.sieg@gmail.com>\n"
+"Last-Translator: Gabriel Felipe Huwe <gabrielhuwe@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -139,23 +139,23 @@ msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
-msgstr ""
+msgstr "Print"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:67
 msgid "Takes a screenshot."
-msgstr ""
+msgstr "Fazer uma captura de tela."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:75
-msgid "Alt + PrtScr"
+msgid "Alt + Print"
 msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:80
 msgid "Takes a screenshot of the current window."
-msgstr ""
+msgstr "Capturar uma imagem da janela atual."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:88
 msgid "Super + Space"
-msgstr ""
+msgstr "Super + Espaço"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:93
 msgid "Switches to next keyboard layout."
@@ -163,7 +163,7 @@ msgstr "Muda para o próximo layout de teclado."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:101
 msgid "Super + Shift + Space"
-msgstr ""
+msgstr "Super + Shift + Espaço"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:106
 msgid "Switches to previous keyboard layout."
@@ -175,7 +175,7 @@ msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:119
 msgid "Starts the Terminal application."
-msgstr "Abre a aplicação de terminal."
+msgstr "Abre o terminal."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:131
 msgid "Launcher"
@@ -183,11 +183,11 @@ msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:138
 msgid "Super (Hold)"
-msgstr ""
+msgstr "Super (Segure)"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:143
 msgid "Opens the launcher, displays shortcuts."
-msgstr ""
+msgstr "Abre o launcher, exibe atalhos."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:151
 msgid "Alt + F1"
@@ -195,7 +195,7 @@ msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:156
 msgid "Opens launcher keyboard navigation mode."
-msgstr ""
+msgstr "Abre lançador em modo de navegação do teclado."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:164
 msgid "Super + Tab"
@@ -203,15 +203,15 @@ msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:169
 msgid "Switches applications via the launcher."
-msgstr ""
+msgstr "Alterna aplicativos pelo lançador."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:177
 msgid "Super + 1 to 0"
-msgstr ""
+msgstr "Super + 1 a 0"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:182
 msgid "Same as clicking on a launcher icon."
-msgstr ""
+msgstr "O mesmo que clicar no ícone do lançador."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:190
 msgid "Super + A"
@@ -219,23 +219,23 @@ msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:195
 msgid "Opens the Application Drawer."
-msgstr ""
+msgstr "Abre a lente de aplicativos no painel."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:207
 msgid "Scopes"
-msgstr ""
+msgstr "Painel"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:214
 msgid "Super (Tap)"
-msgstr ""
+msgstr "Super (Toque)"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:219
 msgid "Opens the Scopes home."
-msgstr ""
+msgstr "Abre o painel inicial"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:235
 msgid "Switching"
-msgstr ""
+msgstr "Troca"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:242
 msgid "Alt + Tab"
@@ -243,7 +243,7 @@ msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:247
 msgid "Switches between applications."
-msgstr ""
+msgstr "Alterna entre os aplicativos."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:255
 msgid "Super + W"
@@ -251,7 +251,7 @@ msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:260
 msgid "Opens the desktop spread."
-msgstr ""
+msgstr "Expandir todas as janelas."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:268
 msgid "Cursor Left or Right"
@@ -259,11 +259,11 @@ msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:273
 msgid "Moves the focus."
-msgstr "Move o foco."
+msgstr "Move o foco entre os indicadores."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:285
 msgid "Windows"
-msgstr ""
+msgstr "Janelas"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:292
 msgid "Ctrl + Super + D"
@@ -275,7 +275,7 @@ msgstr "Minimiza todas as janelas."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:305
 msgid "Ctrl + Super + Up"
-msgstr "Ctrl + Super + Cima"
+msgstr "Ctrl + Super + Acima"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:310
 msgid "Maximizes the current window."
@@ -287,11 +287,11 @@ msgstr "Ctrl + Super + Baixo"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:323
 msgid "Minimizes or restores the current window."
-msgstr ""
+msgstr "Minimiza ou restaura a janela atual."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:331
 msgid "Ctrl + Super + Left or Right"
-msgstr ""
+msgstr "Ctrl + Super + Esquerda ou direita"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:336
 msgid "Semi-maximizes the current window."
@@ -303,7 +303,7 @@ msgstr ""
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:349
 msgid "Closes the current window."
-msgstr ""
+msgstr "Fecha a janela atual."
 
 #: qml/Components/Lockscreen.qml:212 qml/Greeter/NarrowView.qml:228
 msgid "Return to Call"
@@ -361,15 +361,15 @@ msgstr "Visualizar item compartilhado"
 msgid ""
 "Your device is now connected to an external display. Use this screen as a "
 "touch pad to interact with the pointer."
-msgstr ""
+msgstr "Seu dispositivo está agora conectado a um display externo. Use esta tela para interagir com o cursor."
 
 #: qml/Components/VirtualTouchPad.qml:327
 msgid "Tap left button to click."
-msgstr ""
+msgstr "Toque no botão esquerdo para clicar."
 
 #: qml/Components/VirtualTouchPad.qml:339
 msgid "Tap right button to right click."
-msgstr ""
+msgstr "Toque no botão direito para clique-direito."
 
 #: qml/Components/VirtualTouchPad.qml:351
 msgid "Swipe with two fingers to scroll."
@@ -377,7 +377,7 @@ msgstr ""
 
 #: qml/Components/VirtualTouchPad.qml:396
 msgid "Find more settings in the system settings."
-msgstr ""
+msgstr "Encontre mais configurações nas configurações do sistema."
 
 #: qml/Dash/DashPageHeader.qml:361
 msgctxt "Button: Open the Ubuntu Store"
@@ -527,11 +527,11 @@ msgstr ""
 
 #: qml/Greeter/SessionsList.qml:122
 msgid "Select desktop environment"
-msgstr ""
+msgstr "Selecione um ambiente de desktop"
 
 #: qml/Launcher/Drawer.qml:93
 msgid "Search…"
-msgstr ""
+msgstr "Pesquisar..."
 
 #: qml/Launcher/Drawer.qml:128
 msgctxt "Apps sorted alphabetically"
@@ -540,7 +540,7 @@ msgstr ""
 
 #: qml/Launcher/MoreAppsHeader.qml:55
 msgid "More apps in the store"
-msgstr ""
+msgstr "Mais apps na loja"
 
 #: qml/Notifications/NotificationMenuItemFactory.qml:124
 msgid "Show password"
@@ -631,7 +631,7 @@ msgstr "Retornar chamada"
 
 #: qml/Panel/PanelMenuPage.qml:92
 msgid "Back"
-msgstr ""
+msgstr "Voltar"
 
 #: qml/Stage/SideStage.qml:76
 msgid "Drag using 3 fingers any application from one window to the other"
@@ -674,19 +674,19 @@ msgstr "Idioma"
 #: qml/Wizard/Pages/passcode-desktop.qml:142
 #: qml/Wizard/Pages/password-set.qml:142
 msgid "Next"
-msgstr ""
+msgstr "Próximo"
 
 #: qml/Wizard/Pages/20-keyboard.qml:31
 msgid "Select Keyboard"
-msgstr ""
+msgstr "Selecione teclado"
 
 #: qml/Wizard/Pages/20-keyboard.qml:71
 msgid "Keyboard language"
-msgstr ""
+msgstr "Idioma do teclado"
 
 #: qml/Wizard/Pages/20-keyboard.qml:93
 msgid "Keyboard layout"
-msgstr ""
+msgstr "Layout do teclado"
 
 #: qml/Wizard/Pages/20-keyboard.qml:152 qml/Wizard/Pages/30-wifi.qml:206
 #: qml/Wizard/Pages/60-account.qml:65 qml/Wizard/Pages/sim.qml:101
@@ -703,11 +703,11 @@ msgstr "Conectado"
 
 #: qml/Wizard/Pages/30-wifi.qml:164
 msgid "Available Wi-Fi networks"
-msgstr ""
+msgstr "Redes sem fio disponíveis"
 
 #: qml/Wizard/Pages/30-wifi.qml:165
 msgid "No available Wi-Fi networks"
-msgstr ""
+msgstr "Não há redes sem fio disponíveis"
 
 #: qml/Wizard/Pages/40-location.qml:27
 msgid "Location Services"
@@ -731,19 +731,19 @@ msgstr ""
 
 #: qml/Wizard/Pages/40-location.qml:160
 msgid "GPS only"
-msgstr ""
+msgstr "GPS apenas"
 
 #: qml/Wizard/Pages/40-location.qml:214
 msgid "Don't use my location"
-msgstr ""
+msgstr "Não use minha localização"
 
 #: qml/Wizard/Pages/40-location.qml:260
 msgid "You can change it later in System Settings."
-msgstr ""
+msgstr "Você pode mudar isto depois nas Configurações do Sistema."
 
 #: qml/Wizard/Pages/50-timezone.qml:30
 msgid "Time Zone"
-msgstr ""
+msgstr "Fuso-horário"
 
 #: qml/Wizard/Pages/50-timezone.qml:182
 msgid "Enter your city"
@@ -778,19 +778,19 @@ msgstr ""
 
 #: qml/Wizard/Pages/75-report-check.qml:26 qml/Wizard/Pages/here-terms.qml:108
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Política de privacidade"
 
 #: qml/Wizard/Pages/75-report-check.qml:26
 msgid "Help Us Improve"
-msgstr ""
+msgstr "Nos ajude a melhorar"
 
 #: qml/Wizard/Pages/75-report-check.qml:59
 msgid "Improve system performance by sending us crashes and error reports."
-msgstr ""
+msgstr "Melhore a performance do sistema mandando relatórios de erros e travamentos."
 
 #: qml/Wizard/Pages/75-report-check.qml:60
 msgid "Privacy policy"
-msgstr ""
+msgstr "Política de privacidade"
 
 #: qml/Wizard/Pages/80-finished.qml:89
 msgid "Welcome to Ubuntu"
@@ -798,7 +798,7 @@ msgstr ""
 
 #: qml/Wizard/Pages/80-finished.qml:104
 msgid "You are ready to use your device now"
-msgstr ""
+msgstr "Você está pronto para usar seu dispositivo agora"
 
 #: qml/Wizard/Pages/80-finished.qml:124
 msgid "Get Started"
@@ -832,7 +832,7 @@ msgstr ""
 
 #: qml/Wizard/Pages/here-terms.qml:107
 msgid "Service Terms"
-msgstr ""
+msgstr "Termos de serviço"
 
 #: qml/Wizard/Pages/passcode-confirm.qml:43
 #: qml/Wizard/Pages/passcode-desktop.qml:97
@@ -919,7 +919,7 @@ msgstr ""
 
 #: qml/Wizard/PasswordMeter.qml:87
 msgid "Password too short"
-msgstr ""
+msgstr "Senha muito curta"
 
 #: qml/Wizard/PasswordMeter.qml:89
 msgid "Passwords match"
@@ -931,19 +931,19 @@ msgstr ""
 
 #: qml/Wizard/PasswordMeter.qml:95
 msgid "Strong password"
-msgstr ""
+msgstr "Senha forte"
 
 #: qml/Wizard/PasswordMeter.qml:97
 msgid "Fair password"
-msgstr ""
+msgstr "Senha aceitável"
 
 #: qml/Wizard/PasswordMeter.qml:99
 msgid "Weak password"
-msgstr ""
+msgstr "Senha fraca"
 
 #: qml/Wizard/PasswordMeter.qml:101
 msgid "Very weak password"
-msgstr ""
+msgstr "Senha muito fraca"
 
 #~ msgid "Confirm"
 #~ msgstr "Confirmar"
