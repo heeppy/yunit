@@ -1208,12 +1208,12 @@ msgstr "Password molto fragile"
 #~ msgstr "È possibile rivedere la propria scelta nelle <b>Impostazioni</b>."
 
 #, qt-format
-#~ msgid "〈  %1"
-#~ msgstr "〈  %1"
+#~ msgid "〈  %1"
+#~ msgstr "〈  %1"
 
 #, qt-format
-#~ msgid "%1  〉"
-#~ msgstr "%1  〉"
+#~ msgid "%1  〉"
+#~ msgstr "%1 〉" 
 
 #~ msgid "You almost got it!"
 #~ msgstr "Quasi terminato!"
