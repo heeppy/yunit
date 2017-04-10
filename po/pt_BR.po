@@ -134,8 +134,8 @@ msgid "Keyboard Shortcuts"
 msgstr "Atalhos de teclado"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:55
-msgid "Yunit"
-msgstr ""
+msgid "Unity 8"
+msgstr "Yunit"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
@@ -1211,12 +1211,12 @@ msgstr ""
 #~ msgstr "Tudo feito"
 
 #, qt-format
-#~ msgid "〈  %1"
-#~ msgstr "〈  %1"
+#~ msgid "〈  %1"
+#~ msgstr "〈  %1"
 
 #, qt-format
-#~ msgid "%1  〉"
-#~ msgstr "%1  〉"
+#~ msgid "%1  〉"
+#~ msgstr "%1  〉"
 
 #~ msgid "Passphrase must be 4 characters long"
 #~ msgstr "A frase secreta deve possuir 4 caracteres"
