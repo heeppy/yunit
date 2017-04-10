@@ -137,7 +137,7 @@ msgstr "Συντομεύσεις Πληκτρολογίου"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:55
 msgid "Unity 8"
-msgstr "Unity 8"
+msgstr "Yunit"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
@@ -1106,11 +1106,11 @@ msgstr "Πολύ αδύμανος κωδικός"
 #~ msgid "Nice work!"
 #~ msgstr "Ωραία δουλειά!"
 
-#~ msgid "〈  %1"
-#~ msgstr "〈  %1"
+#~ msgid "〈  %1"
+#~ msgstr "〈  %1"
 
-#~ msgid "%1  〉"
-#~ msgstr "%1  〉"
+#~ msgid "%1  〉"
+#~ msgstr "%1  〉"
 
 #~ msgid "Sorry, incorrect passcode."
 #~ msgstr "Συγνώμη, μη έγκυρος κωδικός πρόσβασης."
