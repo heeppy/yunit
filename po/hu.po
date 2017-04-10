@@ -135,7 +135,7 @@ msgstr "Gyorsbillentyűk"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:55
 msgid "Unity 8"
-msgstr "Unity 8"
+msgstr "Yunit"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:62
 msgid "PrtScr"
@@ -1156,12 +1156,12 @@ msgstr "Nagyon gyenge jelszó"
 #~ msgstr "Próbálja újra."
 
 #, qt-format
-#~ msgid "%1  〉"
-#~ msgstr "%1  〉"
+#~ msgid "%1  〉"
+#~ msgstr "%1  〉"
 
 #, qt-format
-#~ msgid "〈  %1"
-#~ msgstr "〈  %1"
+#~ msgid "〈  %1"
+#~ msgstr "〈  %1"
 
 #~ msgid "Please re-enter"
 #~ msgstr "Próbálja újra"
