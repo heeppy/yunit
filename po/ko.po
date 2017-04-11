@@ -1069,7 +1069,7 @@ msgstr "매우 약한 암호"
 #~ msgstr "스코프 관리"
 
 #~ msgid "Please re-enter"
-#~ msgstr "다시 입력해주십시오."
+#~ msgstr "다시-입력해주십시오."
 
 #~ msgid "Enter passcode"
 #~ msgstr "패스코드를 입력해주십시오."
@@ -1179,7 +1179,7 @@ msgstr "매우 약한 암호"
 #~ msgstr "다시 시도해주십시오."
 
 #~ msgid "Sorry, incorrect passphrase"
-#~ msgstr "죄송합니다. 암호문일 올바르지 않습니다."
+#~ msgstr "죄송합니다. 암호문이 올바르지 않습니다."
 
 #~ msgid "Enter passphrase"
 #~ msgstr "암호문을 입력해주십시오."
@@ -1222,7 +1222,7 @@ msgstr "매우 약한 암호"
 #~ msgstr "끝내려면 여기를 두드리십시오."
 
 #~ msgid "To view open apps"
-#~ msgstr "열리ㄴ 앱 보기"
+#~ msgstr "열린 앱 보기"
 
 #~ msgid "Long swipe from the right edge."
 #~ msgstr "오른쪽 가장자리에서 길게 쓸기"
