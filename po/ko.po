@@ -159,7 +159,7 @@ msgstr "Super + Space"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:93
 msgid "Switches to next keyboard layout."
-msgstr "다음 키보드 레아아웃으로 전환합니다."
+msgstr "다음 키보드 레이아웃으로 전환합니다."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:101
 msgid "Super + Shift + Space"
@@ -167,7 +167,7 @@ msgstr "Super + Shift + Space"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:106
 msgid "Switches to previous keyboard layout."
-msgstr "이전 키보드 레아아웃으로 전환합니다."
+msgstr "이전 키보드 레이아웃으로 전환합니다."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:114
 msgid "Ctrl + Alt + T"
@@ -195,7 +195,7 @@ msgstr "Alt + F1"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:156
 msgid "Opens launcher keyboard navigation mode."
-msgstr "런처를 키보드 네비게이션 모드로 엽니다."
+msgstr "런처를 키보드 내비게이션 모드로 엽니다."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:164
 msgid "Super + Tab"
@@ -295,7 +295,7 @@ msgstr "Ctrl + Super + 왼쪽 또는 오른쪽"
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:336
 msgid "Semi-maximizes the current window."
-msgstr "현재창을 반으로 최대화 합니다."
+msgstr "현재 창을 반으로 최대화 합니다."
 
 #: qml/Components/KeyboardShortcutsOverlay.qml:344
 msgid "Alt + F4"
@@ -561,23 +561,23 @@ msgstr "재생중인 항목 없음"
 #, qt-format
 msgid "%1 hour"
 msgid_plural "%1 hours"
-msgstr[0] "%1시간"
+msgstr[0] "%1 시간"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1001
 #, qt-format
 msgid "%1 minute"
 msgid_plural "%1 minutes"
-msgstr[0] "%1분"
+msgstr[0] "%1 분"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1006
 #, qt-format
 msgid "%1 second"
 msgid_plural "%1 seconds"
-msgstr[0] "%1초"
+msgstr[0] "%1 초"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1009
 msgid "0 seconds"
-msgstr "0초"
+msgstr "0 초"
 
 #. Translators: String like "1 hour, 2 minutes, 3 seconds remaining"
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1011
@@ -595,7 +595,7 @@ msgstr "다운로드 중"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1023
 msgid "Paused, tap to resume"
-msgstr "일시 중지하였습니다. 계속하려면 두드리세요"
+msgstr "일시 중지됨, 계속하려면 두드리세요"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1025
 msgid "Canceled"
@@ -607,7 +607,7 @@ msgstr "완료함"
 
 #: qml/Panel/Indicators/IndicatorMenuItemFactory.qml:1029
 msgid "Failed, tap to retry"
-msgstr "실패, 두드리면 다시 시도합니다"
+msgstr "실패됨, 두드리면 다시 시도합니다"
 
 #: qml/Panel/Indicators/MessageMenuItemFactory.qml:151
 #: qml/Panel/Indicators/MessageMenuItemFactory.qml:210
@@ -699,7 +699,7 @@ msgstr "연결됨"
 
 #: qml/Wizard/Pages/30-wifi.qml:164
 msgid "Available Wi-Fi networks"
-msgstr "이용가능한 Wi-Fi 네트워크"
+msgstr "이용 가능한 Wi-Fi 네트워크"
 
 #: qml/Wizard/Pages/30-wifi.qml:165
 msgid "No available Wi-Fi networks"
@@ -1041,7 +1041,7 @@ msgstr "매우 약한 암호"
 #~ msgstr "불러오는 중 입니다. 짐시 기다려주십시오..."
 
 #~ msgid "Unlock SIM"
-#~ msgstr "심 카드 잠금 해제"
+#~ msgstr "SIM 잠금 해제"
 
 #~ msgid "Sorry, incorrect passcode."
 #~ msgstr "최송합니다. 패스코드가 올바르지 않습니다."
@@ -1120,7 +1120,7 @@ msgstr "매우 약한 암호"
 #~ msgstr "위치"
 
 #~ msgid "Let the phone detect your location:"
-#~ msgstr "사용자 위치 추적 방법:"
+#~ msgstr "휴대 전화가 내 위치를 감지하도록 합니다:"
 
 #~ msgid "Using GPS only (less accurate)"
 #~ msgstr "GPS만 사용(덜 정확함)"
@@ -1301,7 +1301,7 @@ msgstr "매우 약한 암호"
 
 #~ msgctxt "passphrase"
 #~ msgid "Please re-enter"
-#~ msgstr "다시 입력해주십시오."
+#~ msgstr "다시-입력해주십시오."
 
 #~ msgid "Yesterday %H:%M"
 #~ msgstr "어제 %H:%M"
