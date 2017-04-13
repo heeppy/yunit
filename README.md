@@ -16,3 +16,4 @@ For help with translations do a pull request with the changes that you made to t
 * For reporting issues with the code or wishes please use the project’s [issues page, here in github](https://github.com/yunit-io/yunit/issues).
 * For general discussions about the project please visit [subreddit](https://www.reddit.com/r/Yunit).
 * For IM you can join our Telegram groups [for UT users (and others until full)](https://t.me/joinchat/AAAAAAsUbsakPJGOP9msRg) and [for those who have support for super groups](https://t.me/joinchat/AAAAAAofPKHQ45Vxy4qhuQ).
+* And we even have a Freenode irc at #yunit.
