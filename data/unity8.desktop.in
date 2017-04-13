@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Yunit
-Comment=The converged Unity shell
+Comment=The converged Yunit shell
 Exec=@CMAKE_INSTALL_PREFIX@/@CMAKE_INSTALL_BINDIR@/unity8
 Terminal=false
 Icon=
