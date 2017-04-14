@@ -88,9 +88,6 @@ parser = argparse.ArgumentParser(
 parser.add_argument(
     'dir', nargs=1,
     help='The directory to (recursively) search for source files')
-parser.add_argument(
-    'ignore_prefix', nargs='?', default=None,
-    help='Ignore source files with a path that starts with the given prefix.')
 args = parser.parse_args()
 
 # Files we want to check for trailing whitespace.
@@ -103,14 +100,13 @@ pat = re.compile(file_pat)
 # directory and check them for trailing whitespace.
 
 directory = os.path.abspath(args.dir[0])
-ignore = args.ignore_prefix and os.path.abspath(args.ignore_prefix) or None
 
 found_whitespace = False
 try:
     for root, dirs, files in os.walk(directory, onerror=raise_error):
         for file in files:
             path = os.path.join(root, file)
-            if not (ignore and path.startswith(ignore)) and pat.match(file):
+            if ('builddir' not in path) and ('obj-x86_64-linux-gnu' not in path) and pat.match(file):
                 if scan_for_bad_whitespace(path):
                     found_whitespace = True
 
