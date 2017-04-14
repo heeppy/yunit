@@ -38,7 +38,7 @@ directory.
 
 build packages
 --------------
-  `$ dpkg-buildpackage -us -uc -j<jobs> # <jobs> = number of cores + 1`
+  ```$ dpkg-buildpackage -us -uc -j$[`nproc` + 1]```
 This should compile remaining files and build `.deb` packages.
 
 Installing yunit on your desktop
