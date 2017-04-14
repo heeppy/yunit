@@ -88,8 +88,8 @@ parser = argparse.ArgumentParser(
 parser.add_argument(
     'dir', nargs=1,
     help='The directory to (recursively) search for source files')
-parser.add_argument(		
-    'ignore_prefix', nargs='?', default=None,		
+parser.add_argument(
+    'ignore_prefix', nargs='?', default=None,
     help='Ignore source files with a path that starts with the given prefix.')
 args = parser.parse_args()
 
