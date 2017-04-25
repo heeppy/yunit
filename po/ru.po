@@ -489,8 +489,8 @@ msgstr "Устройство заблокировано"
 #: qml/Greeter/DelayedLockscreen.qml:58
 msgid "You have been locked out due to too many failed passphrase attempts."
 msgstr ""
-"Вы были заблокированы из-за большого количества неудачных попыток ввода кодовой "
-"фразы."
+"Вы были заблокированы из-за большого количества неудачных попыток ввода "
+"кодовой фразы."
 
 #: qml/Greeter/DelayedLockscreen.qml:59
 msgid "You have been locked out due to too many failed passcode attempts."
@@ -677,8 +677,10 @@ msgstr "Язык"
 #: qml/Wizard/Pages/10-welcome.qml:173 qml/Wizard/Pages/20-keyboard.qml:152
 #: qml/Wizard/Pages/30-wifi.qml:206 qml/Wizard/Pages/40-location.qml:271
 #: qml/Wizard/Pages/50-timezone.qml:271 qml/Wizard/Pages/60-account.qml:65
-#: qml/Wizard/Pages/70-passwd-type.qml:145 qml/Wizard/Pages/75-report-check.qml:84
-#: qml/Wizard/Pages/passcode-desktop.qml:142 qml/Wizard/Pages/password-set.qml:142
+#: qml/Wizard/Pages/70-passwd-type.qml:145
+#: qml/Wizard/Pages/75-report-check.qml:84
+#: qml/Wizard/Pages/passcode-desktop.qml:142
+#: qml/Wizard/Pages/password-set.qml:142
 msgid "Next"
 msgstr "Далее"
 
@@ -833,8 +835,8 @@ msgstr ""
 
 #: qml/Wizard/Pages/here-terms.qml:93
 msgid ""
-"The information collected is used to analyze the service and to improve the use "
-"of service, but not to identify you personally."
+"The information collected is used to analyze the service and to improve the "
+"use of service, but not to identify you personally."
 msgstr ""
 "Собираемая информация используется для анализа и улучшения сервиса, а не для "
 "идентификации вашей личности."
