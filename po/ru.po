@@ -359,8 +359,8 @@ msgstr "Предпросмотр"
 
 #: qml/Components/VirtualTouchPad.qml:317
 msgid ""
-"Your device is now connected to an external display. Use this screen as a touch "
-"pad to interact with the pointer."
+"Your device is now connected to an external display. Use this screen as a "
+"touch pad to interact with the pointer."
 msgstr ""
 "Ваше устройство подключено к внешнему дисплею. Используйте этот экран как "
 "сенсорную панель для управления указателем."
